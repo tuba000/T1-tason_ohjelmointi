@@ -1,0 +1,17 @@
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Roomalaiset\Roomalaiset\bin\Debug\net6.0-windows\Roomalaiset.exe
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Roomalaiset\Roomalaiset\bin\Debug\net6.0-windows\Roomalaiset.deps.json
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Roomalaiset\Roomalaiset\bin\Debug\net6.0-windows\Roomalaiset.runtimeconfig.json
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Roomalaiset\Roomalaiset\bin\Debug\net6.0-windows\Roomalaiset.dll
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Roomalaiset\Roomalaiset\bin\Debug\net6.0-windows\Roomalaiset.pdb
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Roomalaiset\Roomalaiset\obj\Debug\net6.0-windows\Roomalaiset.csproj.AssemblyReference.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Roomalaiset\Roomalaiset\obj\Debug\net6.0-windows\Roomalaiset.Roomalaiset.resources
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Roomalaiset\Roomalaiset\obj\Debug\net6.0-windows\Roomalaiset.csproj.GenerateResource.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Roomalaiset\Roomalaiset\obj\Debug\net6.0-windows\Roomalaiset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Roomalaiset\Roomalaiset\obj\Debug\net6.0-windows\Roomalaiset.AssemblyInfoInputs.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Roomalaiset\Roomalaiset\obj\Debug\net6.0-windows\Roomalaiset.AssemblyInfo.cs
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Roomalaiset\Roomalaiset\obj\Debug\net6.0-windows\Roomalaiset.csproj.CoreCompileInputs.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Roomalaiset\Roomalaiset\obj\Debug\net6.0-windows\Roomalaiset.dll
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Roomalaiset\Roomalaiset\obj\Debug\net6.0-windows\refint\Roomalaiset.dll
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Roomalaiset\Roomalaiset\obj\Debug\net6.0-windows\Roomalaiset.pdb
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Roomalaiset\Roomalaiset\obj\Debug\net6.0-windows\Roomalaiset.genruntimeconfig.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Roomalaiset\Roomalaiset\obj\Debug\net6.0-windows\ref\Roomalaiset.dll

@@ -1,0 +1,17 @@
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\RiippuvaValikko\RiippuvaValikko\bin\Debug\net6.0-windows\RiippuvaValikko.exe
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\RiippuvaValikko\RiippuvaValikko\bin\Debug\net6.0-windows\RiippuvaValikko.deps.json
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\RiippuvaValikko\RiippuvaValikko\bin\Debug\net6.0-windows\RiippuvaValikko.runtimeconfig.json
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\RiippuvaValikko\RiippuvaValikko\bin\Debug\net6.0-windows\RiippuvaValikko.dll
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\RiippuvaValikko\RiippuvaValikko\bin\Debug\net6.0-windows\RiippuvaValikko.pdb
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\RiippuvaValikko\RiippuvaValikko\obj\Debug\net6.0-windows\RiippuvaValikko.csproj.AssemblyReference.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\RiippuvaValikko\RiippuvaValikko\obj\Debug\net6.0-windows\RiippuvaValikko.Pudotusvalikko.resources
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\RiippuvaValikko\RiippuvaValikko\obj\Debug\net6.0-windows\RiippuvaValikko.csproj.GenerateResource.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\RiippuvaValikko\RiippuvaValikko\obj\Debug\net6.0-windows\RiippuvaValikko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\RiippuvaValikko\RiippuvaValikko\obj\Debug\net6.0-windows\RiippuvaValikko.AssemblyInfoInputs.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\RiippuvaValikko\RiippuvaValikko\obj\Debug\net6.0-windows\RiippuvaValikko.AssemblyInfo.cs
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\RiippuvaValikko\RiippuvaValikko\obj\Debug\net6.0-windows\RiippuvaValikko.csproj.CoreCompileInputs.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\RiippuvaValikko\RiippuvaValikko\obj\Debug\net6.0-windows\RiippuvaValikko.dll
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\RiippuvaValikko\RiippuvaValikko\obj\Debug\net6.0-windows\refint\RiippuvaValikko.dll
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\RiippuvaValikko\RiippuvaValikko\obj\Debug\net6.0-windows\RiippuvaValikko.pdb
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\RiippuvaValikko\RiippuvaValikko\obj\Debug\net6.0-windows\RiippuvaValikko.genruntimeconfig.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\RiippuvaValikko\RiippuvaValikko\obj\Debug\net6.0-windows\ref\RiippuvaValikko.dll

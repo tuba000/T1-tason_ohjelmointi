@@ -1,0 +1,17 @@
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Nimitesti\Nimitesti\bin\Debug\net6.0-windows\Nimitesti.exe
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Nimitesti\Nimitesti\bin\Debug\net6.0-windows\Nimitesti.deps.json
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Nimitesti\Nimitesti\bin\Debug\net6.0-windows\Nimitesti.runtimeconfig.json
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Nimitesti\Nimitesti\bin\Debug\net6.0-windows\Nimitesti.dll
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Nimitesti\Nimitesti\bin\Debug\net6.0-windows\Nimitesti.pdb
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Nimitesti\Nimitesti\obj\Debug\net6.0-windows\Nimitesti.csproj.AssemblyReference.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Nimitesti\Nimitesti\obj\Debug\net6.0-windows\Nimitesti.Form1.resources
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Nimitesti\Nimitesti\obj\Debug\net6.0-windows\Nimitesti.csproj.GenerateResource.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Nimitesti\Nimitesti\obj\Debug\net6.0-windows\Nimitesti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Nimitesti\Nimitesti\obj\Debug\net6.0-windows\Nimitesti.AssemblyInfoInputs.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Nimitesti\Nimitesti\obj\Debug\net6.0-windows\Nimitesti.AssemblyInfo.cs
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Nimitesti\Nimitesti\obj\Debug\net6.0-windows\Nimitesti.csproj.CoreCompileInputs.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Nimitesti\Nimitesti\obj\Debug\net6.0-windows\Nimitesti.dll
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Nimitesti\Nimitesti\obj\Debug\net6.0-windows\refint\Nimitesti.dll
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Nimitesti\Nimitesti\obj\Debug\net6.0-windows\Nimitesti.pdb
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Nimitesti\Nimitesti\obj\Debug\net6.0-windows\Nimitesti.genruntimeconfig.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Nimitesti\Nimitesti\obj\Debug\net6.0-windows\ref\Nimitesti.dll

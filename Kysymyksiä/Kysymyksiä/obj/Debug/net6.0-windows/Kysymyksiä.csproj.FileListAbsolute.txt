@@ -1,0 +1,17 @@
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kysymyksiä\Kysymyksiä\bin\Debug\net6.0-windows\Kysymyksiä.exe
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kysymyksiä\Kysymyksiä\bin\Debug\net6.0-windows\Kysymyksiä.deps.json
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kysymyksiä\Kysymyksiä\bin\Debug\net6.0-windows\Kysymyksiä.runtimeconfig.json
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kysymyksiä\Kysymyksiä\bin\Debug\net6.0-windows\Kysymyksiä.dll
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kysymyksiä\Kysymyksiä\bin\Debug\net6.0-windows\Kysymyksiä.pdb
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kysymyksiä\Kysymyksiä\obj\Debug\net6.0-windows\Kysymyksiä.csproj.AssemblyReference.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kysymyksiä\Kysymyksiä\obj\Debug\net6.0-windows\Kysymyksiä.Vastaus.resources
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kysymyksiä\Kysymyksiä\obj\Debug\net6.0-windows\Kysymyksiä.csproj.GenerateResource.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kysymyksiä\Kysymyksiä\obj\Debug\net6.0-windows\Kysymyksiä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kysymyksiä\Kysymyksiä\obj\Debug\net6.0-windows\Kysymyksiä.AssemblyInfoInputs.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kysymyksiä\Kysymyksiä\obj\Debug\net6.0-windows\Kysymyksiä.AssemblyInfo.cs
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kysymyksiä\Kysymyksiä\obj\Debug\net6.0-windows\Kysymyksiä.csproj.CoreCompileInputs.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kysymyksiä\Kysymyksiä\obj\Debug\net6.0-windows\Kysymyksiä.dll
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kysymyksiä\Kysymyksiä\obj\Debug\net6.0-windows\refint\Kysymyksiä.dll
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kysymyksiä\Kysymyksiä\obj\Debug\net6.0-windows\Kysymyksiä.pdb
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kysymyksiä\Kysymyksiä\obj\Debug\net6.0-windows\Kysymyksiä.genruntimeconfig.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kysymyksiä\Kysymyksiä\obj\Debug\net6.0-windows\ref\Kysymyksiä.dll

@@ -1,0 +1,17 @@
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\CtoF\CtoF\bin\Debug\net6.0-windows\CtoF.exe
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\CtoF\CtoF\bin\Debug\net6.0-windows\CtoF.deps.json
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\CtoF\CtoF\bin\Debug\net6.0-windows\CtoF.runtimeconfig.json
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\CtoF\CtoF\bin\Debug\net6.0-windows\CtoF.dll
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\CtoF\CtoF\bin\Debug\net6.0-windows\CtoF.pdb
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\CtoF\CtoF\obj\Debug\net6.0-windows\CtoF.csproj.AssemblyReference.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\CtoF\CtoF\obj\Debug\net6.0-windows\CtoF.Form1.resources
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\CtoF\CtoF\obj\Debug\net6.0-windows\CtoF.csproj.GenerateResource.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\CtoF\CtoF\obj\Debug\net6.0-windows\CtoF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\CtoF\CtoF\obj\Debug\net6.0-windows\CtoF.AssemblyInfoInputs.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\CtoF\CtoF\obj\Debug\net6.0-windows\CtoF.AssemblyInfo.cs
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\CtoF\CtoF\obj\Debug\net6.0-windows\CtoF.csproj.CoreCompileInputs.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\CtoF\CtoF\obj\Debug\net6.0-windows\CtoF.dll
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\CtoF\CtoF\obj\Debug\net6.0-windows\refint\CtoF.dll
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\CtoF\CtoF\obj\Debug\net6.0-windows\CtoF.pdb
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\CtoF\CtoF\obj\Debug\net6.0-windows\CtoF.genruntimeconfig.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\CtoF\CtoF\obj\Debug\net6.0-windows\ref\CtoF.dll

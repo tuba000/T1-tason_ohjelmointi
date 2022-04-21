@@ -1,0 +1,17 @@
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Sekuntikello\Sekuntikello\bin\Debug\net6.0-windows\Sekuntikello.exe
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Sekuntikello\Sekuntikello\bin\Debug\net6.0-windows\Sekuntikello.deps.json
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Sekuntikello\Sekuntikello\bin\Debug\net6.0-windows\Sekuntikello.runtimeconfig.json
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Sekuntikello\Sekuntikello\bin\Debug\net6.0-windows\Sekuntikello.dll
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Sekuntikello\Sekuntikello\bin\Debug\net6.0-windows\Sekuntikello.pdb
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Sekuntikello\Sekuntikello\obj\Debug\net6.0-windows\Sekuntikello.csproj.AssemblyReference.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Sekuntikello\Sekuntikello\obj\Debug\net6.0-windows\Sekuntikello.Sekuntikello.resources
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Sekuntikello\Sekuntikello\obj\Debug\net6.0-windows\Sekuntikello.csproj.GenerateResource.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Sekuntikello\Sekuntikello\obj\Debug\net6.0-windows\Sekuntikello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Sekuntikello\Sekuntikello\obj\Debug\net6.0-windows\Sekuntikello.AssemblyInfoInputs.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Sekuntikello\Sekuntikello\obj\Debug\net6.0-windows\Sekuntikello.AssemblyInfo.cs
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Sekuntikello\Sekuntikello\obj\Debug\net6.0-windows\Sekuntikello.csproj.CoreCompileInputs.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Sekuntikello\Sekuntikello\obj\Debug\net6.0-windows\Sekuntikello.dll
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Sekuntikello\Sekuntikello\obj\Debug\net6.0-windows\refint\Sekuntikello.dll
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Sekuntikello\Sekuntikello\obj\Debug\net6.0-windows\Sekuntikello.pdb
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Sekuntikello\Sekuntikello\obj\Debug\net6.0-windows\Sekuntikello.genruntimeconfig.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Sekuntikello\Sekuntikello\obj\Debug\net6.0-windows\ref\Sekuntikello.dll

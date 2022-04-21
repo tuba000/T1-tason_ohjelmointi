@@ -1,0 +1,17 @@
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Laskin\Laskin\obj\Debug\net6.0-windows\Laskin.csproj.AssemblyReference.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Laskin\Laskin\obj\Debug\net6.0-windows\Laskin.Form1.resources
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Laskin\Laskin\obj\Debug\net6.0-windows\Laskin.csproj.GenerateResource.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Laskin\Laskin\obj\Debug\net6.0-windows\Laskin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Laskin\Laskin\obj\Debug\net6.0-windows\Laskin.AssemblyInfoInputs.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Laskin\Laskin\obj\Debug\net6.0-windows\Laskin.AssemblyInfo.cs
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Laskin\Laskin\obj\Debug\net6.0-windows\Laskin.csproj.CoreCompileInputs.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Laskin\Laskin\bin\Debug\net6.0-windows\Laskin.exe
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Laskin\Laskin\bin\Debug\net6.0-windows\Laskin.deps.json
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Laskin\Laskin\bin\Debug\net6.0-windows\Laskin.runtimeconfig.json
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Laskin\Laskin\bin\Debug\net6.0-windows\Laskin.dll
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Laskin\Laskin\bin\Debug\net6.0-windows\Laskin.pdb
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Laskin\Laskin\obj\Debug\net6.0-windows\Laskin.dll
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Laskin\Laskin\obj\Debug\net6.0-windows\refint\Laskin.dll
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Laskin\Laskin\obj\Debug\net6.0-windows\Laskin.pdb
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Laskin\Laskin\obj\Debug\net6.0-windows\Laskin.genruntimeconfig.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Laskin\Laskin\obj\Debug\net6.0-windows\ref\Laskin.dll

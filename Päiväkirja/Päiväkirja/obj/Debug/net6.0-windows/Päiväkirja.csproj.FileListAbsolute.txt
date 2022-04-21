@@ -1,0 +1,17 @@
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Päiväkirja\Päiväkirja\bin\Debug\net6.0-windows\Päiväkirja.exe
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Päiväkirja\Päiväkirja\bin\Debug\net6.0-windows\Päiväkirja.deps.json
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Päiväkirja\Päiväkirja\bin\Debug\net6.0-windows\Päiväkirja.runtimeconfig.json
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Päiväkirja\Päiväkirja\bin\Debug\net6.0-windows\Päiväkirja.dll
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Päiväkirja\Päiväkirja\bin\Debug\net6.0-windows\Päiväkirja.pdb
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Päiväkirja\Päiväkirja\obj\Debug\net6.0-windows\Päiväkirja.csproj.AssemblyReference.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Päiväkirja\Päiväkirja\obj\Debug\net6.0-windows\Päiväkirja.PaivaKirja.resources
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Päiväkirja\Päiväkirja\obj\Debug\net6.0-windows\Päiväkirja.csproj.GenerateResource.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Päiväkirja\Päiväkirja\obj\Debug\net6.0-windows\Päiväkirja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Päiväkirja\Päiväkirja\obj\Debug\net6.0-windows\Päiväkirja.AssemblyInfoInputs.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Päiväkirja\Päiväkirja\obj\Debug\net6.0-windows\Päiväkirja.AssemblyInfo.cs
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Päiväkirja\Päiväkirja\obj\Debug\net6.0-windows\Päiväkirja.csproj.CoreCompileInputs.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Päiväkirja\Päiväkirja\obj\Debug\net6.0-windows\Päiväkirja.dll
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Päiväkirja\Päiväkirja\obj\Debug\net6.0-windows\refint\Päiväkirja.dll
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Päiväkirja\Päiväkirja\obj\Debug\net6.0-windows\Päiväkirja.pdb
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Päiväkirja\Päiväkirja\obj\Debug\net6.0-windows\Päiväkirja.genruntimeconfig.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Päiväkirja\Päiväkirja\obj\Debug\net6.0-windows\ref\Päiväkirja.dll

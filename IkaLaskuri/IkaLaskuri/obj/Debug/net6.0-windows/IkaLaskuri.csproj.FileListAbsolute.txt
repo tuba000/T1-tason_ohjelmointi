@@ -1,0 +1,17 @@
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\IkaLaskuri\IkaLaskuri\bin\Debug\net6.0-windows\IkaLaskuri.exe
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\IkaLaskuri\IkaLaskuri\bin\Debug\net6.0-windows\IkaLaskuri.deps.json
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\IkaLaskuri\IkaLaskuri\bin\Debug\net6.0-windows\IkaLaskuri.runtimeconfig.json
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\IkaLaskuri\IkaLaskuri\bin\Debug\net6.0-windows\IkaLaskuri.dll
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\IkaLaskuri\IkaLaskuri\bin\Debug\net6.0-windows\IkaLaskuri.pdb
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\IkaLaskuri\IkaLaskuri\obj\Debug\net6.0-windows\IkaLaskuri.csproj.AssemblyReference.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\IkaLaskuri\IkaLaskuri\obj\Debug\net6.0-windows\IkaLaskuri.Form1.resources
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\IkaLaskuri\IkaLaskuri\obj\Debug\net6.0-windows\IkaLaskuri.csproj.GenerateResource.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\IkaLaskuri\IkaLaskuri\obj\Debug\net6.0-windows\IkaLaskuri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\IkaLaskuri\IkaLaskuri\obj\Debug\net6.0-windows\IkaLaskuri.AssemblyInfoInputs.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\IkaLaskuri\IkaLaskuri\obj\Debug\net6.0-windows\IkaLaskuri.AssemblyInfo.cs
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\IkaLaskuri\IkaLaskuri\obj\Debug\net6.0-windows\IkaLaskuri.csproj.CoreCompileInputs.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\IkaLaskuri\IkaLaskuri\obj\Debug\net6.0-windows\IkaLaskuri.dll
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\IkaLaskuri\IkaLaskuri\obj\Debug\net6.0-windows\refint\IkaLaskuri.dll
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\IkaLaskuri\IkaLaskuri\obj\Debug\net6.0-windows\IkaLaskuri.pdb
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\IkaLaskuri\IkaLaskuri\obj\Debug\net6.0-windows\IkaLaskuri.genruntimeconfig.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\IkaLaskuri\IkaLaskuri\obj\Debug\net6.0-windows\ref\IkaLaskuri.dll

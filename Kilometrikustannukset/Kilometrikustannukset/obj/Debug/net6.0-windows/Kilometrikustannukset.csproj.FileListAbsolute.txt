@@ -1,0 +1,17 @@
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kilometrikustannukset\Kilometrikustannukset\bin\Debug\net6.0-windows\Kilometrikustannukset.exe
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kilometrikustannukset\Kilometrikustannukset\bin\Debug\net6.0-windows\Kilometrikustannukset.deps.json
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kilometrikustannukset\Kilometrikustannukset\bin\Debug\net6.0-windows\Kilometrikustannukset.runtimeconfig.json
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kilometrikustannukset\Kilometrikustannukset\bin\Debug\net6.0-windows\Kilometrikustannukset.dll
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kilometrikustannukset\Kilometrikustannukset\bin\Debug\net6.0-windows\Kilometrikustannukset.pdb
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kilometrikustannukset\Kilometrikustannukset\obj\Debug\net6.0-windows\Kilometrikustannukset.csproj.AssemblyReference.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kilometrikustannukset\Kilometrikustannukset\obj\Debug\net6.0-windows\Kilometrikustannukset.Laskuri.resources
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kilometrikustannukset\Kilometrikustannukset\obj\Debug\net6.0-windows\Kilometrikustannukset.csproj.GenerateResource.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kilometrikustannukset\Kilometrikustannukset\obj\Debug\net6.0-windows\Kilometrikustannukset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kilometrikustannukset\Kilometrikustannukset\obj\Debug\net6.0-windows\Kilometrikustannukset.AssemblyInfoInputs.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kilometrikustannukset\Kilometrikustannukset\obj\Debug\net6.0-windows\Kilometrikustannukset.AssemblyInfo.cs
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kilometrikustannukset\Kilometrikustannukset\obj\Debug\net6.0-windows\Kilometrikustannukset.csproj.CoreCompileInputs.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kilometrikustannukset\Kilometrikustannukset\obj\Debug\net6.0-windows\Kilometrikustannukset.dll
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kilometrikustannukset\Kilometrikustannukset\obj\Debug\net6.0-windows\refint\Kilometrikustannukset.dll
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kilometrikustannukset\Kilometrikustannukset\obj\Debug\net6.0-windows\Kilometrikustannukset.pdb
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kilometrikustannukset\Kilometrikustannukset\obj\Debug\net6.0-windows\Kilometrikustannukset.genruntimeconfig.cache
+C:\Users\joona\OneDrive\Koulutehtävät\Keuda\T1 Ohjelmointi\Filut\Kilometrikustannukset\Kilometrikustannukset\obj\Debug\net6.0-windows\ref\Kilometrikustannukset.dll
